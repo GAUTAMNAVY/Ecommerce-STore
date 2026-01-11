@@ -1,6 +1,7 @@
 ﻿# MERN E-Commerce Store 👇
 
-/thumb.png
+![Course Thumbnail](/thumb.png)
+
 
 
 
